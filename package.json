@@ -1,6 +1,6 @@
 {
   "name": "fetch-nice-package",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "fetch cleaned package metadata from the npm registry.",
   "license": "MIT",
   "repository": "hemanth/fetch-nice-package",
