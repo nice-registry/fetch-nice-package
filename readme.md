@@ -20,7 +20,7 @@ fetchNicePackage('nice-package')
 .catch(err => console.error(err))
 ```
 
-P.S: `info` will all the [convenience-methods](https://github.com/zeke/nice-package/blob/master/README.md#convenience-methods) that `nice-package` has.
+P.S: `info` will have all the [convenience-methods](https://github.com/zeke/nice-package/blob/master/README.md#convenience-methods) that `nice-package` has.
 
 ## API
 
